@@ -10,7 +10,7 @@
 ## Обо мне
 
 - 33 года
-- ML tech lead в комании Akvelon
+- ML tech lead/Senior Data Scientist в комании Akvelon
 - Закончил ИГТА в 2012 году по специальности "математическое моделирование и исследование операций"
 - Основные сферы ML: MlOps, NLP, Tabular Data
 
