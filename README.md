@@ -4,7 +4,7 @@
 
 Если есть вопросы по курсу/дз пишите не стесняйтесь
 
-- tg: @imdxd
+- tg: @imdxdd
 - discord Anton Nesterenko
 
 ## Обо мне
